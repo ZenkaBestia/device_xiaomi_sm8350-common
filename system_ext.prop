@@ -12,3 +12,7 @@ telephony.active_modems.max_count=2
 # WFD
 persist.debug.wfd.enable=1
 vendor.wfdservice64=enable
+
+# Gboard
+ro.com.google.ime.height_ratio=1.0
+ro.com.google.ime.kb_pad_port_b=10.0
